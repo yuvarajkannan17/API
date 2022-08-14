@@ -11,6 +11,10 @@ public class AlertsSession {
 		// TODO Auto-generated method stub
 
 	}
+	private void new2() {
+		// TODO Auto-generated method stub
+
+	}
 public static void main(String[] args) throws InterruptedException {
 	
 	System.setProperty("webdriver.chrome.driver","C:\\Users\\yuvarajkannan\\eclipse-workspace\\Selenium\\driver\\chromedriver.exe");
