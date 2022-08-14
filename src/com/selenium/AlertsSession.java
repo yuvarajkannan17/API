@@ -7,6 +7,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class AlertsSession {
+	private void new1() {
+		// TODO Auto-generated method stub
+
+	}
 public static void main(String[] args) throws InterruptedException {
 	
 	System.setProperty("webdriver.chrome.driver","C:\\Users\\yuvarajkannan\\eclipse-workspace\\Selenium\\driver\\chromedriver.exe");
