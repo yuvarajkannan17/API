@@ -9,11 +9,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class AlertsSession {
 	private void new1() {
 		// TODO Auto-generated method stub
-
-	}
-	private void new2() {
-		// TODO Auto-generated method stub
-
 	}
 public static void main(String[] args) throws InterruptedException {
 	
@@ -27,6 +22,7 @@ public static void main(String[] args) throws InterruptedException {
 	
 	Thread.sleep(2000);
 	driver.quit();
+	System.out.println();
 	
 	
 	
